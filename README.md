@@ -117,7 +117,7 @@ git init
 git add .
 git commit -m "Initial commit: Lead CRM application"
 git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/lead-crm.git
+git remote add origin https://github.com/swathikitte27-bit/lead-crm.git
 git push -u origin main
 ```
 
